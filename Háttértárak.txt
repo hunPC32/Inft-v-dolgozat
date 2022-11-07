@@ -1,0 +1,30 @@
+Háttértárak:
+	
+	Feladata: Nagy mennyiségű adat tartós, megbízható tárolása áram nélkül
+	Tárolási elvek: Papír alapú, Mágneses, Optikai, Elektromos, SSD, Hálózati
+
+Merevlemez:
+	Napjainkban 1-2 TB, Több lemez lehet egymás fölött melynek mindkét oldala alkalmas adattárolásra, IDE vagy SATA kábel
+	Fogalom: Optikai elvű tárolók
+
+CD - DVD:
+	Hasonlóság: Ugyanakkorák, mindkettő vörös lézert használ
+	Különbség: A DVD-nek nagyobb tárolókapacitása lehet
+
+ROM – Flash:
+	A ROM csak olvasható, a flash memóriák írhatók és olvashatók is
+	A flash memóriának áram szükséges az adattároláshoz, a ROM áram nélkül is tárolja az adatokat
+
+SSD:
+	Egy memória, nincs bennük mozgó alkatrész emiatt gyorsak de drágák. SATA SCSI PCI Express USB
+
+Hálózati adattárolás:
+	Helyi, felhő alapú
+	Felhő alapú adattárolás:
+	Interneten elérhető ingyenesen vagy fizetősen, több gépen tükrözve vannak a fileok, illetéktelen hozzáférés lehetősége nem kizárt
+
+RAID:
+	Több merevlemez összekötését jelneti, az adatelérés gyorsabb és biztonságosabb is lehet
+
+Kép:
+	RAID-1: Az adatokat mindkét merevlemezre elmenti, így ha az egyik meghibásodik a másik	merevlemezről még mindig visszaállítható az adat
