@@ -1,0 +1,27 @@
+1. A szoftver a programok, adatok, és az ezek használatához szükséges leírások összefoglaló neve
+
+2. 
+	-Shareware
+	-Kereskedelmi szoftver
+	-Szabad szoftver
+	-Triál
+	-Freeware
+
+3. Ha beleegyezünk a licencszerződésbe
+
+4. Ez biztosítja hogy az alkotó a szellemi tulajdonával, mint vagontárggyal rendelkezzen
+
+5. Rendszerközeli szoftverek
+
+6. Az operációs rendszer olyan programcsomag amely segít a felhasználónak a számítógép kezelésében
+
+7. 
+	-Hibaelhárítás
+	-Kezelőfelület biztosítása a felhasználó számára
+	-Elosztja az erőforrásokat
+
+8.
+	-Kernel
+	-Shell
+
+9. A karakteresnek nehéz a kezelése, a grafikus felhasználóbarátabb illetve ennél könnyebb a kommunikáció
